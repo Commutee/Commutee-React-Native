@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118608922388",
+    "project_id": "commutee-app-32470",
+    "storage_bucket": "commutee-app-32470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118608922388:android:42979487b6824e0dcba401",
+        "android_client_info": {
+          "package_name": "com.commutee_bare_reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118608922388-ap94io53cep1o6udbms814prp03elob7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.commutee_bare_reactnative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "118608922388-v9502q82d70ib8a44dbv29vv3vnojo2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.commutee_bare_reactnative",
+            "certificate_hash": "b393c9369f657b6bba8cd20e3dee8058fb722012"
+          }
+        },
+        {
+          "client_id": "118608922388-dim2om8u5kglc9tnokvftlafl51f81s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXD8ZliYfzMif5VlDKeWfCGywM6HJcC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118608922388-dim2om8u5kglc9tnokvftlafl51f81s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
